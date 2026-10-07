@@ -76,6 +76,18 @@ Fabric support will allow DimensionBlocker to be used by servers running the Fab
 
 ---
 
+## neoforge
+
+| Minecraft Version | Mod Loader | Status         |
+| ----------------- | ---------- | -------------- |
+| **1.20.1**        | neoforge     | 🟡 Coming Soon |
+| **26.2**        | neoforge     | 🟡 Coming Soon |
+| **More versions** | neoforge     | 🟡 Planned     |
+
+Fabric support will allow DimensionBlocker to be used by servers running the Fabric ecosystem.
+
+---
+
 ## 🔮 Future Version Support
 
 More Minecraft versions will be added over time.
