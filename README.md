@@ -236,4 +236,62 @@ DimensionBlocker/
 └── settings.gradle
 ```
 
-## 📝 Cha
+## 📝 Changelog
+
+### 1.0.0
+
+* Added The Nether locking
+* Added The End locking
+* Added dimension unlock commands
+* Added real-world unlock timers
+* Added seconds, minutes, hours, and days
+* Added combined timer formats
+* Added persistent dimension states
+* Added persistent timers
+* Added automatic timer expiration
+* Added Gamemaster/OP bypass
+* Added locked-dimension player messages
+* Added remaining-time display
+* Updated for Minecraft 1.21.11
+* Updated for NeoForge 21.11.x
+
+## 🐛 Bug Reports
+
+If you find a bug, please open an issue on GitHub.
+
+When reporting a bug, include:
+
+* Minecraft version
+* NeoForge version
+* DimensionBlocker version
+* Server type
+* The command you were using
+* What you expected to happen
+* What actually happened
+* Relevant server logs
+
+## 💡 Feature Requests
+
+Have an idea for DimensionBlocker?
+
+Open a GitHub issue and describe the feature you'd like to see added.
+
+Feature ideas may include:
+
+* Additional dimensions
+* Scheduled dimension openings
+* More administrator controls
+* Improved status commands
+* Configurable messages
+* More advanced progression controls
+
+## 📜 License
+
+**All Rights Reserved**
+
+See the repository license for the terms under which DimensionBlocker may be used and distributed.
+
+---
+
+**DimensionBlocker**
+Made for Minecraft server owners who want better control over dimension progression.
