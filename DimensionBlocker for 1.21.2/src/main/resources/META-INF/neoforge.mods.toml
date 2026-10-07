@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="dimensionblocker"
+version="1.0.0"
+displayName="DimensionBlocker"
+authors="outbackservers"
+description='''Server-side dimension control for The Nether and The End.'''
+
+[[dependencies.dimensionblocker]]
+modId="neoforge"
+type="required"
+versionRange="[21.2,21.3)"
+ordering="NONE"
+side="SERVER"
+
+[[dependencies.dimensionblocker]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.2,1.21.3)"
+ordering="NONE"
+side="SERVER"
